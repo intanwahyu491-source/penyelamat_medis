@@ -1,0 +1,6 @@
+{
+  "name": "MedTap — NFC Emergency Medical Card",
+  "description": "Aplikasi Kartu Penyelamat Darurat Medis berbasis NFC dan QR code untuk akses cepat informasi medis kritis dan kontak darurat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
